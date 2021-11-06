@@ -1,2 +1,2 @@
-# Blog-Perosonal
+# Blog-Personal
 Practicando
